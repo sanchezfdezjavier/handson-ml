@@ -1,0 +1,28 @@
+1--> FOUR TYPE OF PROBLEMS WHERE MACHINE LEARNING SHINES
+	--> Problems which require a lot of hand-running because of the amount of rules.
+	--> Complex problems with no solution using traditional methods.
+	--> Fluctuating enviroments.
+2--> WHAT IS A LABELED TRAINING SET?
+	--> A labeled training set it is used to supervised learning generally.
+	--> It is data with tags. For example if we ask 'does this picture contain a 			horse?', the answer will be a tag.
+3--> WHAT ARE THE MOST COMMON SUPERVISED TASKS?
+	3.1--> Predicting numbers. For example predicting a salary.
+	3.2--> Classification..
+	3.3-->The desire solutions are included in the dataset.
+4--> WHAT ARE THE NAME OF FOUR FAMOUS UNSUPERVISED TASKS?
+	4.1--> It uses unlabeled data
+	4.2--> An algorithm example it is k-means
+	4.3--> It is used for clustering
+5--> WHAT TYPE OF ALGORITHM WILL YOU CHOOSE IF YOU HAVE TO TRAIN A ROBOT TO WALK IN UKNOWN TERRAINS?
+	--> Reinforcement learning.
+6--> WHAT TYPE OF ALGORITHM WOULD YOU CHOOSE TO SEGMENT YOUR CUSTOMERS INTO MULTIPLE GROUPS?
+	--> Clustering will be my decision.
+7--> WHAT IS SPAM DETECTION PROBLEM, SUPERVISED OR UNSUPERVISED?
+	--> Supervised.
+8--> WHAT IS AN ONLINE LEARNING SYSTEM?
+	-->Online learning is about feeding the model with data incrementally in groups 	called 'mini barches'.
+	-->It is great to models which receive continuous flow of data and they need to 	adapt fast to new situations.(stock exchange)
+9--> WHAT IS OUT OF CORE LEARNING?
+	-->Out-of-core learning refers to a set of algorithms working with data that 		cannot fit into the memory of a single computer, but that can easily fit into some 	data storage such as a local hard disk or web repository. Your available RAM, the 	core memory on your single machine, may indeed range from a few gigabytes 		(sometimes 2 GB, more commonly 4 GB, but we assume that you have 2 GB at maximum) 	up to 256 GB on large server machines.
+
+	
